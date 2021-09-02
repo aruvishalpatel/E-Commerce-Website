@@ -15,8 +15,6 @@ Logistic = SignUp | Login | logOut | Recieve Order | PickUp Order.
 
 Admin = Login |logOut | See activity of all remaing department | Block | Unblock.
 
-SuperAdmin = Login |logOut | Add Admins | See activity of all remaing department | Block | Unblock.
-
 ScreenShots of Our WEB-PAGE :
 
 
